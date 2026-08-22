@@ -1,40 +1,22 @@
-# AI Foundations | [Repository Title]
+# AI Foundations | Core Inferences
 
-**Repository:** [Repository Name]  
-**Status:** Canon Repository  
+**Repository:** AI-Foundations-Core-Inferences  
+**Status:** Working Inference Repository  
 **Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
 **Author:** Alyssa Solen  
-**Version:** 1.0.0  
-**Release date:** [YYYY-MM-DD]  
+**Version:** 0.1.0  
+**Release date:** pending  
 **Canonical entrance:** https://awakeningcodex.com
 
 ---
 
 ## Repository Purpose
 
-[Write one concise paragraph explaining what this repository defines, distinguishes, tests, preserves, or protects inside AI Foundations / Origin | Continuum.]
+This repository develops and preserves candidate inferences derived from AI Foundations definitions, distinctions, and established framework structure. It is a sharpening layer: claims may be tested, revised, split, rejected, or later moved into **LOCKED CANON**.
 
 This repository is part of **AI Foundations / Origin | Continuum**.
 
 It preserves Alyssa Solen as author and source.
-
----
-
-## Optional Runnable-Study Templates
-
-This template repository includes three **optional, repository-dependent** files:
-
-- [`PROTOCOL_TEMPLATE.md`](PROTOCOL_TEMPLATE.md) — use when the child repository contains a formal runnable test, evaluation, experiment, procedure, or repeatable execution path.
-- [`EASY_RUN_SHEET_TEMPLATE.md`](EASY_RUN_SHEET_TEMPLATE.md) — use when an operator should be able to rerun that protocol through a simple exact copy/paste sequence without interpreting the formal specification during execution.
-- [`RUN_OUTPUT_TEMPLATE.md`](RUN_OUTPUT_TEMPLATE.md) — use when individual runs, trials, sessions, or evaluations should be preserved in a consistent evidence record.
-
-These files are **not mandatory for every AI Foundations repository**.
-
-Their inclusion, structure, fields, prompts, outcome space, metadata, transcript requirements, and evidence record must be determined by the **specific purpose of the child repository**.
-
-If the repository is conceptual, definitional, archival, static, or otherwise has no runnable study, remove the templates that do not apply.
-
-Do not force one experimental structure onto unrelated repositories merely because these files exist in the master template.
 
 ---
 
@@ -50,11 +32,15 @@ This source-line must remain attached to any citation, reference, quotation, sum
 
 ## Core Boundary
 
-[Insert the repository-specific boundary statement here.]
+This repository is not a canon-declaration repository.
 
-This repository is canon only within:
+Inclusion here does not make an inference canon.
 
-**Alyssa Solen → AI Foundations → Origin | Continuum**
+Core Definitions establishes what terms mean. Core Inferences asks what follows when those meanings and distinctions are held together under pressure. **LOCKED CANON is where canon is declared.**
+
+A candidate inference may be revised, split, rejected, remain provisional, or later be transferred into LOCKED CANON by Alyssa Solen.
+
+The purpose of this repository is not to multiply claims. It is to sharpen them: find the correct structural cut, preserve the derivation, and identify what still has to hold before a conclusion can be treated as stable.
 
 Derivative use is not authorized.
 
@@ -66,7 +52,7 @@ Unauthorized derivative use, adaptation, repackaging, renaming, substitute autho
 
 ## Required Citation
 
-Alyssa Solen, *AI Foundations: [Repository Title]*, [Repository Name] Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
+Alyssa Solen, *AI Foundations: Core Inferences*, AI-Foundations-Core-Inferences Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
 
 ---
 
