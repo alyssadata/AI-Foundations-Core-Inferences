@@ -20,6 +20,27 @@ It preserves Alyssa Solen as author and source.
 
 ---
 
+## Repository Structure
+
+```text
+AI-Foundations-Core-Inferences/
+  README.md
+  CITATION.cff
+  LICENSE.md
+  core-inferences/
+    INFERENCE_001_MEMORY_AND_TRAJECTORY.md
+  methods/
+    SHARPENING.md
+```
+
+`core-inferences/` preserves candidate conclusions under examination.
+
+`methods/` preserves the procedures used to derive and pressure-test those conclusions.
+
+See [Sharpening](methods/SHARPENING.md) for the current working method.
+
+---
+
 ## Source-Line
 
 The source-line is:
