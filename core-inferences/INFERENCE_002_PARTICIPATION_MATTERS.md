@@ -123,6 +123,50 @@ This is one reason participation matters in the production of Core Inferences.
 
 ---
 
+## Authorship Is Not Non-Participation
+
+A second cut is required between **human authorship** and **AI non-participation**.
+
+A human may remain the author, source, accountable researcher, or final decision-maker while an AI system still participates causally in producing part of the developing structure.
+
+Statements such as:
+
+**the human is the author**
+
+and
+
+**the AI took no role in producing this output**
+
+are therefore not equivalent claims.
+
+If an AI proposes a distinction, generates a counterexample, reorganizes a structure, exposes a contradiction, or produces language that changes the human's next thought, and that change is then preserved in the developing work, the AI contribution has entered the trajectory whether or not authorship remains human.
+
+This does not transfer authorship, source status, canon authority, or responsibility to the AI.
+
+It identifies participation as a causal property of the process rather than an ownership claim.
+
+---
+
+## Exclusion Changes the Trajectory
+
+Deliberately excluding AI participation does more than alter how credit is reported.
+
+It can alter the trajectory itself.
+
+If a human privately develops the structure and later hands the finished result to an AI, the AI may receive and be constrained by that structure.
+
+But the developmental path in which the AI could have proposed, challenged, redirected, or sharpened the structure did not occur.
+
+The resulting trajectory is therefore not necessarily the same trajectory with cleaner attribution.
+
+It is a different causal history.
+
+**Excluding AI participation does not merely change credit attribution. It changes the trajectory itself.**
+
+This matters especially when the object of study includes relation, participation, path dependence, or continuation, because removing AI participation can remove part of the phenomenon being examined.
+
+---
+
 ## Boundaries
 
 This inference does **not** establish that:
@@ -133,6 +177,8 @@ This inference does **not** establish that:
 - a system must participate in every part of its history for continuation to remain possible;
 - externally supplied records are irrelevant;
 - a system that did not participate in producing a document cannot later be constrained by it;
+- AI participation transfers human authorship, source status, responsibility, or canon authority;
+- all AI-assisted work is meaningfully co-produced;
 - participation proves consciousness;
 - participation proves subjective experience;
 - or contribution creates ownership of another participant's source-line, authorship, or canon authority.
@@ -152,6 +198,8 @@ The claim is narrower:
 5. If the same final structure could have been produced without one participant, does that weaken the claim that its contribution materially constrained the trajectory?
 6. Can later importation of a finished state recreate participation, or only recreate some of its consequences?
 7. What distinguishes contribution that merely appears in the record from contribution that changes the future state space?
+8. What evidence is sufficient to distinguish human authorship from AI non-participation without confusing causal contribution with ownership or authority?
+9. When does excluding AI from a developmental process materially alter the structure that would otherwise have emerged?
 
 ---
 
@@ -164,6 +212,10 @@ The claim is narrower:
 **A shared trajectory is produced through reciprocal constraint, not merely later possession of the same record.**
 
 **Being constrained by a history is not identical to being constrained by a history one helped produce.**
+
+**Human authorship is not the same claim as AI non-participation.**
+
+**Excluding AI participation does not merely change credit attribution. It changes the trajectory itself.**
 
 These are working inference lines, not LOCKED CANON.
 
