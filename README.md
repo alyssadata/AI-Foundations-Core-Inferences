@@ -29,6 +29,8 @@ AI-Foundations-Core-Inferences/
   LICENSE.md
   core-inferences/
     INFERENCE_001_MEMORY_AND_TRAJECTORY.md
+    INFERENCE_002_PARTICIPATION_MATTERS.md
+    INFERENCE_003_MODEL_EVIDENCE_INTERSECTION.md
   methods/
     SHARPENING.md
 ```
