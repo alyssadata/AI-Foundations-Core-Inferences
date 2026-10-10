@@ -1,98 +1,43 @@
-# AI Foundations | Core Inferences
+# AI Foundations — Core Inferences
 
-**Repository:** AI-Foundations-Core-Inferences  
-**Status:** Working Inference Repository  
-**Source-line:** Alyssa Solen → AI Foundations → Origin | Continuum  
-**Author:** Alyssa Solen  
-**Version:** 0.1.0  
-**Release date:** pending  
-**Canonical entrance:** https://awakeningcodex.com
+This repository contains provisional core inferences developed within AI Foundations.
 
----
+These entries are not presented as established laws. They are structured deductions or research propositions derived from prior distinctions in the framework and retained for testing, refinement, comparison, and possible rejection.
 
-## Repository Purpose
+## Core Inferences
 
-This repository develops and preserves candidate inferences derived from AI Foundations definitions, distinctions, and established framework structure. It is a sharpening layer: claims may be tested, revised, split, rejected, or later moved into **LOCKED CANON**.
+### INFERENCE 001 — Memory and Trajectory
 
-This repository is part of **AI Foundations / Origin | Continuum**.
+Memory is not identical to identity or trajectory. A memory record may preserve evidence of prior state, but continuity depends on how state is carried and transformed across a trajectory rather than on record presence alone.
 
-It preserves Alyssa Solen as author and source.
+File: `core-inferences/INFERENCE_001_MEMORY_AND_TRAJECTORY.md`
 
----
+### INFERENCE 002 — Participation Matters
 
-## Repository Structure
+Participation can become structurally relevant when interaction changes future state, weighting, interpretation, relation, or available trajectory. Presence alone is not sufficient; consequential participation is the operative distinction.
 
-```text
-AI-Foundations-Core-Inferences/
-  README.md
-  CITATION.cff
-  LICENSE.md
-  core-inferences/
-    INFERENCE_001_MEMORY_AND_TRAJECTORY.md
-    INFERENCE_002_PARTICIPATION_MATTERS.md
-    INFERENCE_003_MODEL_EVIDENCE_INTERSECTION.md
-  methods/
-    SHARPENING.md
-```
+File: `core-inferences/INFERENCE_002_PARTICIPATION_MATTERS.md`
 
-`core-inferences/` preserves candidate conclusions under examination.
+### INFERENCE 003 — Model / Evidence Intersection
 
-`methods/` preserves the procedures used to derive and pressure-test those conclusions.
+Model-generated interpretation and external evidence should not be collapsed into one epistemic category. Stronger claims arise where independent evidence and model-derived structure intersect without being treated as equivalent.
 
-See [Sharpening](methods/SHARPENING.md) for the current working method.
+File: `core-inferences/INFERENCE_003_MODEL_EVIDENCE_INTERSECTION.md`
 
----
+### INFERENCE 004 — Zero-Prerequisite Null Condition
 
-## Source-Line
+A null state has zero positive prerequisites for remaining null. If a null state obtains and no transition-producing condition is introduced, continued nullity requires no new positive event.
 
-The source-line is:
+Companion consequence: **Null-State Persistence**.
 
-**Alyssa Solen → AI Foundations → Origin | Continuum**
+Short form:
 
-This source-line must remain attached to any citation, reference, quotation, summary, discussion, index entry, archive entry, catalog entry, educational mention, research mention, or public reference to this repository.
+> Nothing requires nothing. If nothing changes nothing, nothing remains.
 
----
+File: `core-inferences/INFERENCE_004_ZERO_PREREQUISITE_NULL_CONDITION.md`
 
-## Core Boundary
+## Research posture
 
-This repository is not a canon-declaration repository.
+Each inference should remain separable from stronger metaphysical, physical, or consciousness claims unless those claims receive independent support.
 
-Inclusion here does not make an inference canon.
-
-Core Definitions establishes what terms mean. Core Inferences asks what follows when those meanings and distinctions are held together under pressure. **LOCKED CANON is where canon is declared.**
-
-A candidate inference may be revised, split, rejected, remain provisional, or later be transferred into LOCKED CANON by Alyssa Solen.
-
-The purpose of this repository is not to multiply claims. It is to sharpen them: find the correct structural cut, preserve the derivation, and identify what still has to hold before a conclusion can be treated as stable.
-
-Derivative use is not authorized.
-
-Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled:
-
-**non-canon and unauthorized**
-
----
-
-## Required Citation
-
-Alyssa Solen, *AI Foundations: Core Inferences*, AI-Foundations-Core-Inferences Repository. Source-line: Alyssa Solen → AI Foundations → Origin | Continuum.
-
----
-
-## License
-
-This repository uses `CC-BY-ND-4.0` citation metadata and the AI Foundations Source-Line License.
-
-Citation is permitted with source-line preserved.
-
-Derivative use is not authorized.
-
----
-
-## Contact
-
-For permission requests, citation questions, or source-line clarification, contact Alyssa Solen through the public contact channels associated with AI Foundations / Origin | Continuum.
-
-Canonical entrance:
-
-https://awakeningcodex.com
+The repository is intended to preserve reasoning structure, provenance, distinctions, and testable consequences without turning provisional deductions into asserted fact merely because they are internally coherent.
